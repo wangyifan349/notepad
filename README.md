@@ -1,4 +1,4 @@
-# notepad## Simple Notepad — Minimal Win32 Text Editor (C89)
+# Simple Notepad — Minimal Win32 Text Editor (C89)
 
 Simple Notepad is a compact, single-file C program implementing a minimal Notepad-like text editor using the Win32 API. It provides New/Open/Save file operations, basic Find and Replace (single occurrence), a multiline edit control with scrollbars, and a simple custom modal input prompt. The source is ANSI C compatible with C89 and released under the GNU General Public License v3.0. Repository: https://github.com/wangyifan349/notepad
 
